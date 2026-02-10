@@ -17,11 +17,11 @@ DA_M3_W4_Workflow/
 │   └── superstore_sales_tutorial.ipynb
 │
 ├── images/
-│   └── superstore_erd.png     ← Save your ERD here
+│   └── placeholder.png     ← Save your actual ERD in this directory
 │
 ├── requirements.txt
 │
-└── README.md
+└── wk4_workflow_instructions.md
 
 ```
 
